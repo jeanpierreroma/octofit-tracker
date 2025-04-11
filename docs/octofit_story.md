@@ -1,4 +1,4 @@
-# Building a Fitness App with GitHub Copilot agent mode for Mergington High School
+sudo service mongodb start# Building a Fitness App with GitHub Copilot agent mode for Mergington High School
 
 ## OctoFit Tracker application story for Mergington High School
 
