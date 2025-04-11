@@ -40,7 +40,6 @@ INSTALLED_APPS = [
 ]
 
 INSTALLED_APPS += [
-    "octofit_tracker",
     "octofit_app",
     "rest_framework",
     "corsheaders",
